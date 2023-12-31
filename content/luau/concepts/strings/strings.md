@@ -89,5 +89,3 @@ local name = 'bilbo baggins'
 print(string.upper(name))
 -- Output: BILBO BAGGINS
 ```
-
-Below is a list of the most common built-in string functions.
